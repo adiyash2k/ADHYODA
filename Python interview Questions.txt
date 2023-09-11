@@ -1,0 +1,48 @@
+1.What are the different data types in Python?
+2.What is the difference between a primitive data type and a composite data type?
+3.What is the difference between a mutable data type and an immutable data type?
+4.How do you define a constant in Python?
+5.How do you convert a string to an integer?
+6.How do you convert an integer to a string?
+7.What are the different ways to represent a floating-point number in Python?
+8.What is the difference between a list and a tuple?
+9.What is the difference between a dictionary and a set?
+10.What are the different ways to iterate over a list?
+
+Operators
+
+1.What are the different types of operators in Python?
+2.What is the difference between an arithmetic operator and a logical operator?
+3.What is the difference between an assignment operator and a comparison operator?
+4.How do you use the bitwise operators in Python?
+5.How do you use the membership operators in Python?
+6.How do you use the identity operators in Python?
+7.How do you use the augmented assignment operators in Python?
+
+Conditional Statements
+
+1.What are the different types of conditional statements in Python?
+2.How do you write an if statement in Python?
+3.How do you write an else statement in Python?
+4.How do you write an elif statement in Python?
+5.How do you write a nested conditional statement in Python?
+6.How do you write a switch statement in Python?
+
+Looping Statements
+
+1.What are the different types of looping statements in Python?
+2.How do you write a for loop in Python?
+3.How do you write a while loop in Python?
+4.How do you write a do-while loop in Python?
+5.How do you break out of a loop in Python?
+6.How do you continue a loop in Python?
+
+Functions
+
+1.What are functions in Python?
+2.How do you define a function in Python?
+3.How do you call a function in Python?
+4.What are the different types of arguments in Python?
+5.How do you pass arguments to a function in Python?
+6.How do you return a value from a function in Python?
+7.How do you write a recursive function in Python?
